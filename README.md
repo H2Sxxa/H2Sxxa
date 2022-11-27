@@ -23,3 +23,5 @@ Here is a sponser link: https://afdian.net/@H2Sxxa
 ## Others
 
 - My Minecraft Mod Dev QQ-Group [416619634](https://jq.qq.com/?_wv=1027&k=SYIkwBe6)
+- My Blog https://blog.h2sxxa.eu.org
+- My OneDrive https://drive.h2sxxa.eu.org
