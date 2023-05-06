@@ -2,15 +2,15 @@
 
 ## Who am I ？
 
-Friends , do u know TouHou Project?
+Friend,do you know TouHou Project?
 
-Love Touhou Project,sometimes is Arknights,also love the Material Design(unprofessional)...
+Love Touhou Project,also love the Material Design(amateur)...
 
-## Sponser
+A Student,a touhou lover...also a gamer!
 
-Here is a sponser link: https://afdian.net/@H2Sxxa
+## Sponse
 
-↑If my works can help u,you can consider a sponse
+Here is a sponse link: https://afdian.net/@H2Sxxa
 
 ## Github stats
 
@@ -20,8 +20,15 @@ Here is a sponser link: https://afdian.net/@H2Sxxa
 
 ↑There are sommmmmme commits from https://github.com/IAXRetailer/auto-green
 
+## Contact
+
+- Github: https://github.com/H2Sxxa
+- Email : mailto:h2sxxa0w0@gmail.com
+- Steam : 1227101305
+- BiliBili : https://space.bilibili.com/393570351
+- QQ : 1525223576
+
 ## Others
 
 - My Minecraft Mod Dev QQ-Group [416619634](https://jq.qq.com/?_wv=1027&k=SYIkwBe6)
-- My Blog https://blog.h2sxxa.eu.org
-- My OneDrive https://drive.h2sxxa.eu.org
+- My Blog https://h2sxxa.github.io
