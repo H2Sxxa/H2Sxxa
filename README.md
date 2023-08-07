@@ -18,8 +18,6 @@ Here is a sponse link: https://afdian.net/@H2Sxxa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H2Sxxa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-↑There are sommmmmme commits from https://github.com/IAXRetailer/auto-green
-
 ## Contact
 
 - Github: https://github.com/H2Sxxa
@@ -31,4 +29,5 @@ Here is a sponse link: https://afdian.net/@H2Sxxa
 ## Others
 
 - My Minecraft Mod Dev QQ-Group [416619634](https://jq.qq.com/?_wv=1027&k=SYIkwBe6)
+- My Minecraft Touhou Mod Community QQ-Group 752204159
 - My Blog https://h2sxxa.github.io
