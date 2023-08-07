@@ -14,9 +14,9 @@ Here is a sponse link: https://afdian.net/@H2Sxxa
 
 ## Github stats
 
-[![H2Sxxa's Github Stats](https://github-readme-stats.vercel.app/api?username=H2Sxxa&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![H2Sxxa's Github Stats](https://github-readme-stats.vercel.app/api?username=H2Sxxa&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H2Sxxa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![H2Sxxa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H2Sxxa&theme=dracula&hide=html,javascript,ejs,stylus,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
