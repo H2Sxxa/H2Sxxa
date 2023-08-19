@@ -1,22 +1,20 @@
-# Hello ! Here is H2Sxxa
+# Hello ! Here is H2Sxxa 👋
 
-## Who am I ？
+## Who am I 🤔 ？
 
-Friend,do you know TouHou Project?
+Friend,do you know TouHou Project☯?
 
-Love Touhou Project,also love the Material Design(amateur)...
+Love Touhou Project☯ and do some graphic designs(amateur)
 
-A Student,a touhou lover...also a gamer!
-
-## Sponse
+## Sponse 💴
 
 Here is a sponse link: https://afdian.net/@H2Sxxa
 
-## Github stats
+## Status 📊
 
 <p align="left"><img src="metrics.plugin.wakatime.svg"></p>
 
-## Contact
+## Contact 📞
 
 - Github: https://github.com/H2Sxxa
 - Email : mailto:h2sxxa0w0@gmail.com
@@ -24,7 +22,7 @@ Here is a sponse link: https://afdian.net/@H2Sxxa
 - BiliBili : https://space.bilibili.com/393570351
 - QQ : 1525223576
 
-## Others
+## Others 💡
 
 - My Minecraft Mod Dev QQ-Group [416619634](https://jq.qq.com/?_wv=1027&k=SYIkwBe6)
 - My Minecraft Touhou Mod Community QQ-Group 752204159
