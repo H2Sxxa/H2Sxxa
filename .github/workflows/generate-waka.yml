@@ -28,11 +28,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
-          base: header, repositories
+          token: NOT_NEEDED
+          base: ""
           plugin_wakatime: yes
-          token: ${{ secrets.GH_TOKEN }}
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_user: H2Sxxa
           plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, editors-graphs, os
           plugin_wakatime_repositories_visibility: public
           
