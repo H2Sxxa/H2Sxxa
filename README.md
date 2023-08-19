@@ -6,10 +6,6 @@ Friend,do you know TouHou Project☯?
 
 Love Touhou Project☯ and do some graphic designs(amateur)
 
-## Sponse 💴
-
-Here is a sponse link: https://afdian.net/@H2Sxxa
-
 ## Status 📊
 
 <p align="left"><img src="metrics.plugin.wakatime.svg"></p>
@@ -21,6 +17,12 @@ Here is a sponse link: https://afdian.net/@H2Sxxa
 - Steam : 1227101305
 - BiliBili : https://space.bilibili.com/393570351
 - QQ : 1525223576
+
+## Sponse 💴
+
+If my work can give you help, you can consider a Sponse.
+
+Here is a sponse link: https://afdian.net/@H2Sxxa
 
 ## Others 💡
 
