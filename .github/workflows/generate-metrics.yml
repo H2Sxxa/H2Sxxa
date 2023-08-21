@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Generate-waka
+name: Generate-Metrics
 
 # Controls when the workflow will run
 on:
@@ -34,5 +34,3 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_user: h2sxxa
           plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, editors-graphs, os
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
