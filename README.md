@@ -8,7 +8,7 @@ Love Touhou Project☯ and do some graphic designs(amateur)
 
 ## Status 📊
 
-<p align="left"><img src="metrics.plugin.wakatime.svg"></p>
+<p align="left"><img src="metrics.plugin.svg"></p>
 
 ## Contact 📞
 
