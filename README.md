@@ -18,11 +18,11 @@ Love Touhou Project☯ and do some graphic designs(amateur)
 - BiliBili : https://space.bilibili.com/393570351
 - QQ : 1525223576
 
-## Sponse 💴
+## sponsor 💴
 
-If my work can give you help, you can consider a Sponse.
+If my work can give you help, you can consider a sponsor.
 
-Here is a sponse link: https://afdian.net/@H2Sxxa
+Here is a sponsor link: https://afdian.net/@H2Sxxa
 
 ## Others 💡
 
