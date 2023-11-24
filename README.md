@@ -8,6 +8,8 @@ Love Touhou Project☯ and do some graphic designs(amateur)
 
 ## Status 📊
 
+[![wakatime](https://wakatime.com/badge/user/2cbbd499-4c2f-44d5-8b4e-813449cabaf3.svg)](https://wakatime.com/@2cbbd499-4c2f-44d5-8b4e-813449cabaf3)
+
 <p align="left"><img src="metrics.plugin.svg"></p>
 
 ## Contact 📞
