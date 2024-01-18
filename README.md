@@ -12,7 +12,7 @@ The Programming Language I used/am using:
 
  - Python(A great and flexible script language)
  - Java(Just want to make some mcmod)
- - Rust(Interesting and Modern, also safe and fast)
+ - Rust(Interesting and Modern, also Safe and Fast)
  - Dart(Flutter is easy to make some cross-platform application)
 
 ## Status 📊
