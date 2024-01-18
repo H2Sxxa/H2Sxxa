@@ -2,9 +2,18 @@
 
 ## Who am I 🤔 ？
 
-Friend,do you know TouHou Project☯?
+~~The Master of Nothing~~
 
-Love Touhou Project☯ and do some graphic designs(amateur)
+A simple college student, major in Artificial Intelligence.
+
+Love **Touhou Project☯** and doing some awful Graphic Designs.
+
+The Programming Language I used/am using: 
+
+ - Python(A great and flexible script language)
+ - Java(Just want to make some mcmod)
+ - Rust(Interesting and Modern, also safe and fast)
+ - Dart(Flutter is easy to make some cross-platform application)
 
 ## Status 📊
 
@@ -18,16 +27,8 @@ Love Touhou Project☯ and do some graphic designs(amateur)
 - Email : mailto:h2sxxa0w0@gmail.com
 - Steam : 1227101305
 - BiliBili : https://space.bilibili.com/393570351
-- QQ : 1525223576
-
-## sponsor 💴
-
-If my work can give you help, you can consider a sponsor.
-
-Here is a sponsor link: https://afdian.net/@H2Sxxa
 
 ## Others 💡
 
-- My Minecraft Mod Dev QQ-Group [416619634](https://jq.qq.com/?_wv=1027&k=SYIkwBe6)
-- My Minecraft Touhou Mod Community QQ-Group 752204159
-- My Blog https://h2sxxa.github.io
+- A Minecraft Touhou Mod QQ-Group: 752204159
+- Blog: https://h2sxxa.github.io
