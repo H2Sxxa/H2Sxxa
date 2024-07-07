@@ -13,7 +13,11 @@ The Programming Language I used/am using:
  - Python(A great and flexible script language)
  - Java(Just want to make some mcmod)
  - Rust(Interesting and Modern, also Safe and Fast)
- - Dart(Flutter is easy to make some cross-platform application)
+ - Dart(Flutter is easy to make some beautiful cross-platform application)
+
+## Skills 😎
+
+[![Skills](https://skillicons.dev/icons?i=github,vscode,idea,rust,flutter,dart,python,java,bash,c,ps,ai)](https://skillicons.dev)
 
 ## Status 📊
 
