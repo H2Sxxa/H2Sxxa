@@ -19,7 +19,7 @@ The Programming Language I used/am using:
 
 [![Skills](https://skillicons.dev/icons?i=github,vscode,idea,rust,flutter,dart,python,java,bash,c,ps,ai)](https://skillicons.dev)
 
-## My VSCode Extensions
+## My VSCode Extensions 🧩
 
 [Gist](https://gist.github.com/H2Sxxa/40e3e504dbafc860b8f516db3ffc53cd)
 
