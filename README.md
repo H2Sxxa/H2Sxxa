@@ -15,6 +15,11 @@ The Programming Language I used/am using:
  - Rust(Interesting and Modern, also Safe and Fast)
  - Dart(Flutter is easy to make some beautiful cross-platform application)
 
+## My Work Experience
+
+ - [Reflex AI Limited (2024.10 - 2025.4)](www.sekai.so)
+ - ****** (2025.8 - Now)
+
 ## Skills 😎
 
 [![Skills](https://skillicons.dev/icons?i=github,vscode,idea,rust,flutter,dart,python,java,bash,c,ps,ai)](https://skillicons.dev)
