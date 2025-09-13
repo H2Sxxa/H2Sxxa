@@ -17,7 +17,7 @@ The Programming Language I used/am using:
 
 ## My Work Experience
 
- - [Reflex AI Limited (2024.10 - 2025.4)](www.sekai.so)
+ - [Reflex AI Limited (2024.10 - 2025.4)](https://www.sekai.so/)
  - ****** (2025.8 - Now)
 
 ## Skills 😎
