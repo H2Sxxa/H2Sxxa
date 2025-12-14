@@ -45,3 +45,6 @@ The Programming Language I used/am using:
 
 - A Minecraft Touhou Mod QQ-Group: 752204159
 - Blog: https://h2sxxa.github.io
+
+<img src="https://count.getloli.com/@H2Sxxa?name=H2Sxxa&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="count" />
+</div>
