@@ -30,16 +30,7 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: main
-      - name: WakaTime Metric
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.svg
-          base: header, repositories
-          plugin_wakatime: yes
-          token: ${{ secrets.GH_TOKEN }}
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_user: h2sxxa
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graphs, os
+
       - name: Generate 3D Metric
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -62,3 +53,14 @@ jobs:
           git rm -r --ignore-unmatch profile-3d-contrib
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: update 3d profile"
           git push origin main 
+          
+      - name: WakaTime Metric
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.svg
+          base: header, repositories
+          plugin_wakatime: yes
+          token: ${{ secrets.GH_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_user: h2sxxa
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graphs, os
