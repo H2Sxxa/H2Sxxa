@@ -16,6 +16,15 @@ The Programming Language I used/am using:
  - Dart(Flutter is easy to make some beautiful cross-platform application)
  - TypeScript(I love writing react hooks)
 
+## Charts 📊
+
+<img src="./assets/profile-3d/profile-night-rainbow.svg" alt="3D GitHub Stats" />
+
+<p align="left"><img src="metrics.plugin.svg"></p>
+
+[![Skills](https://skillicons.dev/icons?i=github,vscode,idea,rust,flutter,dart,python,javascript,typescript,react,nextjs,java,bash,c,ps,ai)](https://skillicons.dev)
+
+
 ## About Me 👀
 
 <p align="center">
@@ -29,14 +38,6 @@ The Programming Language I used/am using:
 <a href="mailto:h2sxxa0w0@gmail.com"><img src="https://img.shields.io/badge/MailTo-h2sxxa0w0@gmail.com-orange" /></a>
 <a href="https://steamcommunity.com/profiles/76561199187367033"><img src="https://img.shields.io/badge/Steam-1227101305-blue" /></a>
 </p>
-
-## Charts 📊
-
-[![Skills](https://skillicons.dev/icons?i=github,vscode,idea,rust,flutter,dart,python,javascript,typescript,react,nextjs,java,bash,c,ps,ai)](https://skillicons.dev)
-
-<img src="./assets/profile-3d/profile-night-rainbow.svg" alt="3D GitHub Stats" />
-
-<p align="left"><img src="metrics.plugin.svg"></p>
 
 ## My Work Experience 💼
 
