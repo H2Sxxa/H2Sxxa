@@ -22,7 +22,7 @@ The Programming Language I used/am using:
 
 <p align="left"><img src="metrics.plugin.svg"></p>
 
-[![Skills](https://skillicons.dev/icons?i=github,vscode,idea,rust,flutter,dart,python,javascript,typescript,react,nextjs,java,bash,c,ps,ai)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=github,vscode,idea,rust,flutter,dart,python,javascript,typescript,react,nextjs,java,bash,c,ps,ai,markdown)](https://skillicons.dev)
 
 
 ## About Me 👀
