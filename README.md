@@ -41,7 +41,7 @@ The Programming Language I used/am using:
 
 ## My Work Experience 💼
 
- - [Reflex AI Limited (2024.10 - 2025.4)](https://www.sekai.so/)
- - ****** (2025.8 - Now)
+ - 2024.10 - 2025.4 [Reflex AI Limited - Sekai App](https://apps.apple.com/us/app/sekai-chat-with-twiiists)
+ - 2025.8 - Now ******
 
 <img src="https://count.getloli.com/@H2Sxxa?name=H2Sxxa&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="count" />
