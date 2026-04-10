@@ -41,7 +41,7 @@ The Programming Language I used/am using:
 
 ## My Work Experience 💼
 
- - 2024.10 - 2025.4 [Reflex AI Limited - Sekai App](https://apps.apple.com/us/app/sekai-chat-with-twiiists)
- - 2025.8 - 2026.4 Kazama Inc - KusaPics
+ - 2024.10 - 2025.4 [Reflex AI Limited - Sekai App (Flutter App Dev)](https://apps.apple.com/us/app/sekai-chat-with-twiiists)
+ - 2025.8 - 2026.4 Kazama Inc - KusaPics (Frontend Dev)
 
 <img src="https://count.getloli.com/@H2Sxxa?name=H2Sxxa&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="count" />
